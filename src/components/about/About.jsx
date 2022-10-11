@@ -36,10 +36,9 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum ad
-            ipsa dolorum aliquam quo nulla minima expedita, ducimus provident
-            non quos sunt, facilis ipsam ea architecto maiores quasi officia
-            quisquam.
+          I like the process of website development, in which use acquired skills and find new solutions. I’m able to use best approaches of HTML, CSS and Javascript for responsive, cross-browser websites and SPA creation. 
+I love talking to people and know how to listen, also like having conversations with people about different topics. 
+
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
