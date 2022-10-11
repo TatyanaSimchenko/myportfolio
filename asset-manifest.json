@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.52d6b22f.css",
-    "main.js": "/myportfolio/static/js/main.7987e43b.js",
+    "main.js": "/myportfolio/static/js/main.aa4c8b80.js",
+    "static/media/gpt-mockup.png": "/myportfolio/static/media/gpt-mockup.75d5050f0ba7b167f765.png",
+    "static/media/cars-mockup.png": "/myportfolio/static/media/cars-mockup.85a1c66f9cbd435054dd.png",
+    "static/media/shoppingcart-mockup.png": "/myportfolio/static/media/shoppingcart-mockup.405e3cc40b8647d28aca.png",
+    "static/media/timer-mockup.png": "/myportfolio/static/media/timer-mockup.8841dbb712d45a1e911b.png",
     "static/media/me2.png": "/myportfolio/static/media/me2.dd2219eb44674d157f09.png",
     "static/media/me1.png": "/myportfolio/static/media/me1.ba188cec86399e3d043f.png",
-    "static/media/portfolio5.png": "/myportfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/portfolio2.jpg": "/myportfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
     "static/media/CV.pdf": "/myportfolio/static/media/CV.928a2e7c06ec5987b56a.pdf",
     "static/media/portfolio6.jpg": "/myportfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.jpg": "/myportfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/myportfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
     "static/media/portfolio4.jpg": "/myportfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/myportfolio/index.html",
     "main.52d6b22f.css.map": "/myportfolio/static/css/main.52d6b22f.css.map",
-    "main.7987e43b.js.map": "/myportfolio/static/js/main.7987e43b.js.map"
+    "main.aa4c8b80.js.map": "/myportfolio/static/js/main.aa4c8b80.js.map"
   },
   "entrypoints": [
     "static/css/main.52d6b22f.css",
-    "static/js/main.7987e43b.js"
+    "static/js/main.aa4c8b80.js"
   ]
 }
