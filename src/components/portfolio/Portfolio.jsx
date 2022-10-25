@@ -2,7 +2,7 @@ import React from "react";
 import IMG1 from "../../assets/gpt-mockup.png";
 import IMG2 from "../../assets/timer-mockup.png";
 import IMG3 from "../../assets/shoppingcart-mockup.png";
-import IMG4 from "../../assets/portfolio4.jpg";
+import IMG4 from "../../assets/foodshop-mockup.png";
 import IMG5 from "../../assets/cars-mockup.png";
 import IMG6 from "../../assets/portfolio6.jpg";
 import "./portfolio.css";
@@ -11,38 +11,38 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: "This is a portfolio item title",
-    github: "https://github.com",
+    title: "Portfolio example",
+    github: "https://tatyanasimchenko.github.io/gpt/",
   },
   {
     id: 2,
     image: IMG2,
-    title: "This is a portfolio item title",
-    github: "https://github.com",
+    title: "Timer",
+    github: "https://tatyanasimchenko.github.io/timer/",
   },
   {
     id: 3,
     image: IMG3,
-    title: "This is a portfolio item title",
-    github: "https://github.com",
+    title: "Shopping Cart",
+    github: "https://tatyanasimchenko.github.io/soppingcart/",
   },
   {
     id: 4,
     image: IMG4,
-    title: "This is a portfolio item title",
-    github: "https://github.com",
+    title: "Food Shop",
+    github: "https://tatyanasimchenko.github.io/fooddelivery",
   },
   {
     id: 5,
     image: IMG5,
-    title: "This is a portfolio item title",
-    github: "https://github.com",
+    title: "Begin design in React",
+    github: "https://tatyanasimchenko.github.io/cars/",
   },
   {
     id: 6,
     image: IMG6,
-    title: "This is a portfolio item title",
-    github: "https://github.com",
+    title: "Will be my next work",
+    github: "https://github.com/TatyanaSimchenko",
   },
 ];
 
